@@ -10,4 +10,4 @@ Il tool usa le librerie
 - requests (per prendere i dati)
 - matplotlib (per creare il grafico)
 
-[](pic1.png)
+![](pic1.png)
